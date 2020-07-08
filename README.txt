@@ -34,4 +34,5 @@ All the needed python files are included in the src folder, the main file is nam
       
         >>>filter_cmb(path="../data/LFI_SkyMap_030-BPassCorrected_1024_R3.00_full.fits", f=28.4, fwhm=32.293, cut=3.5, print_sources=False)
 
+The data folder with all the maps used in this example (ESA: Planck mission 2015) is too big for this repository. This data can be downloaded in http://pla.esac.esa.int/pla/#maps.
 
