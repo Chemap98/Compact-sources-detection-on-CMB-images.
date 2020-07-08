@@ -1,6 +1,6 @@
 This code was created by José María Palencia Sainz to obtain the degree in physics by the Universidad de Cantabria (UC).
 This work was supervised by Diego Herranz Muñoz. 
-(The main program was created by José María while the rest of programs were implemented by Diego)
+(The main program (CMB_compact_sources_filter.py) was created by José María while the rest of programs were implemented by Diego)
 
 ***     Brief summary of the code     ***
 
